@@ -1,5 +1,6 @@
 package RecursionPrograms;
 
+//printing the number in a given order.
 public class Number {
 
 	public static void main(String[] args) {
