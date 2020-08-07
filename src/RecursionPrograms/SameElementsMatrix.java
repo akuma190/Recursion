@@ -1,7 +1,7 @@
 package RecursionPrograms;
 
 import java.util.Arrays;
-
+//printing the count of the same elements along a given coordinate.
 public class SameElementsMatrix {
 	//static boolean[][] test=new boolean[3][5];
     public static void main(String[] args) {
